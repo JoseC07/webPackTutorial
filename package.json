@@ -1,0 +1,26 @@
+{
+  "name": "file",
+  "version": "1.0.0",
+  "description": "file",
+  "main": "file",
+  "scripts": {
+    "test": "file"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseC07/webPackTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseC07/webPackTutorial/issues"
+  },
+  "homepage": "https://github.com/JoseC07/webPackTutorial#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-router-dom": "^4.3.1",
+    "semantic-ui-react": "^0.85.0"
+  }
+}
